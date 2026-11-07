@@ -1,0 +1,22 @@
+Order_ID,Date,Customer_Name,City,Region,Product_Category,Quantity,Unit_Price,Revenue,Discount,Payment_Method,Customer_Age
+1001,2026-01-15,Rahul Sharma,Mumbai,West,Electronics,2,1200,2400,0.1,Credit Card,34
+1001,2026-01-15,Rahul Sharma,Mumbai,West,Electronics,2,1200,2400,0.1,Credit Card,34
+1002,15/01/2026,rahul  sharma,Mumbai,West,Electronics,2,1200,2400,0.1,Credit Card,34
+1003,2026-01-16,Priya Patel,Ahmedabad,West,Apparel,1,850,850,0.05,UPI,28
+1004,2026-01-16,Amit Verma,Delhi,North,Home,3,450,"1,350",0.15,Net Banking,42
+1005,2026-01-17,Sneha Reddy,Bangalore,South,Electronics,1,35000,35000,0.0,Credit Card,29
+1006,2026-01-18,Vikram Singh,Lucknow,North,Apparel,2,700,1400,N/A,Cash,31
+1006,2026-01-18,Vikram Singh,Lucknow,North,Apparel,2,700,1400,N/A,Cash,31
+1008,2026-01-19,Ananya Gupta,Kolkata,East,Beauty,4,300,1200,0.1,UPI,null
+1009,2026-01-20,Rohan Mehta,Mumbai,West,Electronics,1,75000,75000,0.05,Credit Card,45
+1010,2026-01-21,Kavita Nair,Kochi,South,Grocery,10,120,1200,0.02,UPI,38
+1011,2026-01-22,Arjun Rao,Hyderabad,South,Electronics,1,18000,18000,0.1,Credit Card,
+1012,2026-01-23,Neha Joshi,Pune,West,Apparel,2,950,1900,0.0,Debit Card,26
+1013,2026-01-24,Suresh Kumar,Delhi,North,Home,1,999999,999999,0.0,Net Banking,-5
+1014,2026-01-25,Pooja Mishra,Lucknw,North,Beauty,3,400,1200,0.1,UPI,33
+1015,2026-01-26,Manoj Tiwari,Patna,East,Grocery,5,150,750,0.0,Cash,52
+1016,2026-01-27,Sunita Das,Kolkata,East,Electronics,2,4500,9000,0.08,Credit Card,41
+1017,2026-01-28,Deepak Chawla,Delhi,North,Apparel,1,1100,1100,0.05,UPI,30
+1018,2026-01-29,Shweta Iyer,Chennai,South,Beauty,2,650,1300,0.1,Debit Card,27
+1019,2026-01-30,Rajesh Khanna,Mumbai,West,Home,1,3200,3200,0.15,Credit Card,145
+1020,2026-01-31,Simran Kaur,Chandigarh,North,Grocery,4,250,1000,0.05,UPI,35
